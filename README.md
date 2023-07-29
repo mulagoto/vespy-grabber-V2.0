@@ -86,12 +86,9 @@ Windows OS
 
 A Brain
 
-start.bat will automatically install all required site packages
+install.bat will automatically install requirements
+after that, open vespygrabber.py and it will run
 
-Watch Vespy Tutorial Here :
-
-WATCH
-Video made by T s
 
 Tutorial
 Setting Vespy up is pretty easy. 
@@ -124,7 +121,6 @@ Why Vespy creates json files with browser cookies ?
 
 Vespy creates a json file format for the cookies so it can be imported on a empty browser using the extension Cookiebro. Importing cookies means you'll be in the user's account on every website (If the cookie isnt expired).
 
-How to use                         extension ?
 
 
 ![image](https://user-images.githubusercontent.com/91851115/236692497-f85f4d6f-0314-4bf2-a345-e32cc1bf4cce.png)
